@@ -48,7 +48,7 @@ Note: the detail could be check in ./data/wdj_word_fre.txt
 You could pre-train the word embedding of dataset by Gensim, and save the model as the data format of ./data/wdj_word_emd.txt
 
 
-###Word POS tag File
+### Word POS tag File
 The maximum probability POS tag for each word in Vocabulary file, which are used for answer generation.
 Example:
 
